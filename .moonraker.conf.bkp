@@ -23,6 +23,10 @@ cors_domains =
 	*://localhost:*
 	*://*.eriasu.xyz
 
+[spoolman]
+server = https://spoolman.eriasu.xyz
+sync_rate = 5
+
 [octoprint_compat]
 
 [history]
